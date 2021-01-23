@@ -1,4 +1,4 @@
-package com.github.romankh3.maventemplaterepository;
+package com.github.iamzexy.maventemplaterepository;
 
 
 import org.junit.jupiter.api.Assertions;

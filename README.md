@@ -1,5 +1,6 @@
 ## Overview
-Repository with preconfigured maven project with junit5 configuration on a board.
+ChemCalc2021 - is a program that helps people who make composite materials of certain elements. 
+  
 
 ## Building
 ...
@@ -11,7 +12,7 @@ Repository with preconfigured maven project with junit5 configuration on a board
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+* Artem Demin - [iamzexy](https://github.com/iamzexy)
 
 ## Acknowledgments
 ...
